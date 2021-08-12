@@ -1,0 +1,11 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "IYS Data Science Guide"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Datasets"
+      href: datasets.html
